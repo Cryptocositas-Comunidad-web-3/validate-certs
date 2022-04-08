@@ -6,7 +6,7 @@ Este es el primer proyecto de la comunidad de cryptocositas en Telegram. Se pret
 
 ## Tecnologías a usar 
 
-WPI
+WIP (agregar aquí las tecnologías que se vayan a utilizar, en consenso con todes)
 
 - 
 
@@ -31,6 +31,9 @@ Después de seguir estos pasos alguien revisará tu código, si hay cambios se n
 ##  💪 Participantes 
 
 -  @UchihaCFC
+-  @BTCWFD
+-  @lumiguz
+-  @magotecnologia
 
 
 ##  Cursos que te pueden ayudar
