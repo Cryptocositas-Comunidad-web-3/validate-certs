@@ -34,6 +34,7 @@ Después de seguir estos pasos alguien revisará tu código, si hay cambios se n
 -  @BTCWFD
 -  @lumiguz
 -  @magotecnologia
+-  [@aesthezel](https://github.com/aesthezel)
 
 
 ##  Cursos que te pueden ayudar
