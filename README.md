@@ -34,6 +34,7 @@ Después de seguir estos pasos alguien revisará tu código, si hay cambios se n
 -  @BTCWFD
 -  @lumiguz
 -  @magotecnologia
+-  @Jussef
 
 
 ##  Cursos que te pueden ayudar
