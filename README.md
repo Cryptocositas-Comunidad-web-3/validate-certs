@@ -30,6 +30,7 @@ Después de seguir estos pasos alguien revisará tu código, si hay cambios se n
 
 ##  💪 Participantes 
 
+-  @LeanderGS
 -  @UchihaCFC
 -  @BTCWFD
 -  @lumiguz
