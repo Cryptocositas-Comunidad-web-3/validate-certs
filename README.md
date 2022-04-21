@@ -30,11 +30,13 @@ Después de seguir estos pasos alguien revisará tu código, si hay cambios se n
 
 ##  💪 Participantes 
 
+-  @LeanderGS
 -  @UchihaCFC
 -  @BTCWFD
 -  @lumiguz
 -  @magotecnologia
 -  [@aesthezel](https://github.com/aesthezel)
+-  @Jussef
 
 
 ##  Cursos que te pueden ayudar
