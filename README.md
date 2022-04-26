@@ -37,7 +37,7 @@ Después de seguir estos pasos alguien revisará tu código, si hay cambios se n
 -  @magotecnologia
 -  [@aesthezel](https://github.com/aesthezel)
 -  @Jussef
-
+-  [@afmm280](https://github.com/amenam101)
 
 ##  Cursos que te pueden ayudar
 
