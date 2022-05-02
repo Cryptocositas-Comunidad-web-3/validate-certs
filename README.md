@@ -54,7 +54,7 @@ Después de seguir estos pasos alguien revisará tu código, si hay cambios se n
 - [Master de solidity (Ingles)](https://www.youtube.com/watch?v=pqxNmdwEHio&list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g)
 - [Curso intensivo de solidity (Ingles)](https://www.youtube.com/watch?v=M576WGiDBdQ)
 - [Ejemplos de smart contracts](https://solidity-by-example.org/)
-- [Rust begginers](https://www.youtube.com/watch?v=MsocPEZBd-M)
+- [Rust beginners](https://www.youtube.com/watch?v=MsocPEZBd-M)
 
 
 
