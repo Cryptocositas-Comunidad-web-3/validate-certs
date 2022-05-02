@@ -8,6 +8,7 @@ Este es el primer proyecto de la comunidad de cryptocositas en Telegram. Se pret
 
 WIP (agregar aquí las tecnologías que se vayan a utilizar, en consenso con todes)
 
+- Discord (Debemos crear servidor)
 - 
 
 ## 🚀 Cómo participar 
@@ -33,16 +34,27 @@ Después de seguir estos pasos alguien revisará tu código, si hay cambios se n
 -  @LeanderGS
 -  @UchihaCFC
 -  @BTCWFD
--  @lumiguz
+-  [@lumiguz](https://github.com/lumiguz)
 -  @magotecnologia
 -  [@aesthezel](https://github.com/aesthezel)
 -  @Jussef
 -  [@afmm280](https://github.com/amenam101)
 
-##  Cursos que te pueden ayudar
+##  Cursos de PLATZI que te pueden ayudar
 
 - [Curso de Git y Github Profesional](https://platzi.com/cursos/git-github/)
+- [Curso de Prework para Desarrollo de Aplicaciones Blockchain](https://platzi.com/cursos/prework-blockchain/)
+- [Curso de Introducción al Desarrollo Blockchain: Smart Contracts](https://platzi.com/cursos/smart-contracts/)
+- [Curso de Introducción a Solidity](https://platzi.com/cursos/solidity/)
+- [Curso de OpenZeppelin](https://platzi.com/cursos/openzeppelin/)
+- [Curso de Dapps: Introducción al Desarrollo de Aplicaciones Descentralizadas](https://platzi.com/cursos/intro-dapps/)
 
+## Recursos adicionales
+
+- [Master de solidity (Ingles)](https://www.youtube.com/watch?v=pqxNmdwEHio&list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g)
+- [Curso intensivo de solidity (Ingles)](https://www.youtube.com/watch?v=M576WGiDBdQ)
+- [Ejemplos de smart contracts](https://solidity-by-example.org/)
+- [Rust begginers](https://www.youtube.com/watch?v=MsocPEZBd-M)
 
 
 
